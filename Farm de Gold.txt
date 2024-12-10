@@ -3,3 +3,6 @@ Começo: 0 G
 Meta: 30.000 G
 
 Final:  G
+
+Teste 0
+Teste 1 
