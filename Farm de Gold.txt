@@ -1,0 +1,5 @@
+Começo: 0 G
+
+Meta: 30.000 G
+
+Final:  G
